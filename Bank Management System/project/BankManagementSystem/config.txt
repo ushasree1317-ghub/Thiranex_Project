@@ -1,0 +1,3 @@
+# Admin Configuration
+# Format: username password
+admin admin123
